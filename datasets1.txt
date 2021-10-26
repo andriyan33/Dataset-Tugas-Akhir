@@ -167,7 +167,7 @@ Non_HS	kami semua serentak mengucapkan gimana ini pak ustadz
 HS	kontool
 Non_HS	meski dengan saya yang seperti ini jika saya berguna akan saya lakukan dengan sungguh sungguh
 Non_HS	belom ngerjain tugas ya
-postif	pusing memikirkan kebadutan
+Non_HS	pusing memikirkan kebadutan
 Non_HS	pusing dengan kebadutan ini
 Non_HS	mencari akhlakmuu
 Non_HS	kak kalo ga bisa dimilikin tolong gantengnya di kurangin
