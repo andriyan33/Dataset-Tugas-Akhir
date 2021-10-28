@@ -35,24 +35,6 @@ Non_HS	jangan bikin gaduh
 Non_HS	opini yang bagus nak sekarang pamit dulu sama keluarga
 HS	bangsat kau
 Non_HS	seketika aku terkedjoet
-Non_HS	saya suka posting anda lanjutken
-Non_HS	orang kaya memang suka begitu tengil kayak duit bapaknya halal aja
-Non_HS	diam saya sedang belajar
-Non_HS	ya allah ya robbi
-Non_HS	harta tahta hanya titipan
-Non_HS	mengoleskan krim penahan rasa ingin hujat
-HS	sok iya si lonte ini
-Non_HS	kenapa orang orang yang pantas mati malah berumur panjang
-Non_HS	apa perlu saya turun tangan
-Non_HS	ingat mati ingat sakit ingat saat kau ngetwit
-Non_HS	abang tukang bakso pakau walkie talkie kijang satu ganti
-Non_HS	mulut siapa itu
-Non_HS	permisi jagoan
-Non_HS	dpr ngelucu presiden pamer cucu
-Non_HS	astagfirullah
-Non_HS	eh tahan istigfar astagfirullahaladzim
-HS	duh rahimku anget mas
-Non_HS	hadeh
 HS	goblok puazzzz
 Non_HS	lah ngatur
 Non_HS	jakarta dilarang beriziq dilarang gaduh
@@ -76,14 +58,6 @@ Non_HS	kenapa aku harus terlahir di indonesia
 Non_HS	mana sempat udah di ss
 Non_HS	pakai sorban dan gamis saya pikir dia ulama ternyata piccolo pantesan emosian
 Non_HS	begini sekarang indonesia
-Non_HS	punten gofud
-Non_HS	takbir jangan nih
-Non_HS	bukan golongan kami
-Non_HS	jika pil kb bisa menunda punya anak maka pilkada tidak bisa ditunda demi anak
-Non_HS	asik ada bahan
-Non_HS	kepala pundak luhut lagi luhut lagi
-Non_HS	astagfirulloh
-Non_HS	takbir
 Non_HS	permisi bu ini ada bantuan sedikit buat ibu tapi saya potong ceban
 Non_HS	org yg suka korupsi disebut koruptor org yg suka provokasi disebut provokator org yg suka kabur disebut kaburator
 Non_HS	tidak aku merasa sudah mimpi sangat panjang
@@ -125,6 +99,24 @@ Non_HS	iya maaf
 Non_HS	sial aku tertawa
 Non_HS	sebera pantaskah kau untuk ku tumbuk
 Non_HS	memang semesta lah ahli komedi bro
+Non_HS	saya suka posting anda lanjutken
+Non_HS	orang kaya memang suka begitu tengil kayak duit bapaknya halal aja
+Non_HS	diam saya sedang belajar
+Non_HS	ya allah ya robbi
+Non_HS	harta tahta hanya titipan
+Non_HS	mengoleskan krim penahan rasa ingin hujat
+HS	sok iya si lonte ini
+Non_HS	kenapa orang orang yang pantas mati malah berumur panjang
+Non_HS	apa perlu saya turun tangan
+Non_HS	ingat mati ingat sakit ingat saat kau ngetwit
+Non_HS	abang tukang bakso pakau walkie talkie kijang satu ganti
+Non_HS	mulut siapa itu
+Non_HS	permisi jagoan
+Non_HS	dpr ngelucu presiden pamer cucu
+Non_HS	astagfirullah
+Non_HS	eh tahan istigfar astagfirullahaladzim
+HS	duh rahimku anget mas
+Non_HS	hadeh
 Non_HS	gua jomblo karena gua yakin semesta lagi nyiapin seseorang yg paling indah buat gua
 Non_HS	gatau aku masi tk
 Non_HS	jika kalian bosan like batu ini
@@ -195,26 +187,6 @@ Non_HS	gaskeun
 Non_HS	begitu masuk langsung jadi pns
 Non_HS	kamu cita citanya mau jadi apa jadi t rex wah kamu mau jadi besar dan kuat ya aku mau punah
 Non_HS	coba kau pikirkan coba kau renungkan apa yang pikirkan renungkan apa pikirkan kau
-Non_HS	selamat datang di rumah makan bebek selamet kok menunya ayam semua kan bebeknya selamet
-Non_HS	gongsi gongsi ayo masuk gausah memei makasih eh kenapa soalnya mau kita bubarin
-Non_HS	cari simpati
-HS	aaaaa bangsat
-HS	anjing gajelas
-HS	anjing bisa gitu
-HS	tolol
-HS	bacot bacot bacot
-HS	blok blokgoblokgoblok blok
-HS	bajingan seperti itu tidak pantas ditangisi
-Non_HS	ya allah seperti biasa aamiin
-Non_HS	memikirkan rumitnya hidup ini
-Non_HS	ya tuhan aku ga sanggup
-HS	mo marah kontollllllll
-HS	anak ngentottt
-Non_HS	menunggu duit jauh dari langit
-HS	memek
-HS	gue gebuk kaget lu njing tukang bak
-HS	apasi pasi pasi papasi anjing
-Non_HS	situ sehat
 Non_HS	hahaha orang jawa pasti kuli hahaha kevin lupa kalau dia sedang tidak berada di internet
 Non_HS	saya tau kaliah sudah tidak konsen bekerja gak usah pura sibuk gitu
 HS	jangan lari lari tod bacod tua cucu panteq mampus
@@ -253,3 +225,31 @@ HS	tumben sepi biasanya banyak yang gila
 HS	ini maksudnya apa anjing
 HS	eits tidak boleh begitu wahai lonte
 Non_HS	ini gimana pak ustadz
+Non_HS	selamat datang di rumah makan bebek selamet kok menunya ayam semua kan bebeknya selamet
+Non_HS	gongsi gongsi ayo masuk gausah memei makasih eh kenapa soalnya mau kita bubarin
+Non_HS	cari simpati
+HS	aaaaa bangsat
+HS	anjing gajelas
+HS	anjing bisa gitu
+HS	tolol
+HS	bacot bacot bacot
+HS	blok blokgoblokgoblok blok
+HS	bajingan seperti itu tidak pantas ditangisi
+Non_HS	ya allah seperti biasa aamiin
+Non_HS	memikirkan rumitnya hidup ini
+Non_HS	ya tuhan aku ga sanggup
+HS	mo marah kontollllllll
+HS	anak ngentottt
+Non_HS	menunggu duit jauh dari langit
+HS	memek
+HS	gue gebuk kaget lu njing tukang bak
+HS	apasi pasi pasi papasi anjing
+Non_HS	situ sehat
+Non_HS	punten gofud
+Non_HS	takbir jangan nih
+Non_HS	bukan golongan kami
+Non_HS	jika pil kb bisa menunda punya anak maka pilkada tidak bisa ditunda demi anak
+Non_HS	asik ada bahan
+Non_HS	kepala pundak luhut lagi luhut lagi
+Non_HS	astagfirulloh
+Non_HS	takbir
