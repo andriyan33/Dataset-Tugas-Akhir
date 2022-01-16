@@ -4,8 +4,6 @@ HS	situ ORANG atau Badut Kok gendut
 Non_HS	lihat ada badut disana
 HS	asuuuuuuuuuuu
 HS	Udah Bodoh Hidup Lagi!!!!
-Non_HS	sayang sini sama aku
-Non_HS	agak meresahkan
 HS	henti tolol mu
 Non_HS	cukup jangan bikin aku halu terlalu dalam
 Non_HS	pesona aku pesona
@@ -24,7 +22,6 @@ HS	walaupun psbb seribu tahun kalo masih tolol apa gunanya
 Non_HS	laporan cuaca hari ini sangat cerah secerah senyum mu
 Non_HS	ga boleh gitu lu
 Non_HS	mengapa hatiku cenat cenut tiap ada kamu
-Non_HS	dewasa dikit masa harus dikasih tau
 Non_HS	ga sanggup
 HS	Maap Tidak Terima Orang TOLOL
 HS	Meditasi Sebelum Menghujat
@@ -36,7 +33,6 @@ Non_HS	rela nguli sampai ke arab biar pulang bisa cosplay jadi abu lahab
 Non_HS	nanti juga sembuh sendiri
 Non_HS	indonesia patut bangga memiliki menteri paling transparan d dunia
 Non_HS	gue kalo lagi sendirian jarang ngobrol
-Non_HS	jangan bikin gaduh
 Non_HS	opini yang bagus nak sekarang pamit dulu sama keluarga
 HS	bangsat kau
 HS	Disuruh Patuhi 5M malah ngambil 14M kontol emang
@@ -49,7 +45,6 @@ HS	Nih mamam otak biar ada otaknya sedikit
 Non_HS	jakarta dilarang beriziq dilarang gaduh
 Non_HS	woy diem diem bae demo napa demo
 Non_HS	php bukan pemberi harapan palsu tapi orang madura jualan hp
-Non_HS	kau yang kuasai bumi kah
 Non_HS	allahuakbar
 Non_HS	berdebat dengan satu orang bodoh hanya akan membuat orang bodohnya jadi dua
 Non_HS	maju tak gentar membela yang bayar
@@ -68,7 +63,6 @@ Non_HS	mana sempat udah di ss
 Non_HS	pakai sorban dan gamis saya pikir dia ulama ternyata piccolo pantesan emosian
 Non_HS	begini sekarang indonesia
 Non_HS	permisi bu ini ada bantuan sedikit buat ibu tapi saya potong ceban
-Non_HS	org yg suka korupsi disebut koruptor org yg suka provokasi disebut provokator org yg suka kabur disebut kaburator
 Non_HS	tidak aku merasa sudah mimpi sangat panjang
 Non_HS	pasti tata krama belum ditemukan disini
 Non_HS	yeah perkelahian sangat menghibur
@@ -81,16 +75,12 @@ Non_HS	aku tanya sekali lagi siapa itu hyung dan kenapa dia bengek
 Non_HS	alhamdulillah bersamamu aku bahagia
 Non_HS	maaf saya baru nongol ada berita apa ya
 Non_HS	hadeh bingung makan apa ya
-Non_HS	bapak diminta menghadap presiden
 Non_HS	kamu kira saya peduli enggak
-Non_HS	mending rakit pc
-Non_HS	cowok adek mana udah nunggu depan gang mak ganteng doang jemput cewe depan gang
 Non_HS	orang lain terus aku kapan ya allah
 Non_HS	iri bilang bos
 Non_HS	kamu jalan ke hujung sana dan boleh pergi kerahmatullah
 Non_HS	kalau anda tidak bisa tutup pintu jangan buka pintu silahkan terbang
 Non_HS	enak ya kalo ga punya otak idupnya ga pusing
-Non_HS	gue getok lu
 Non_HS	ya allah salah mulu
 Non_HS	aku tak menangisimu hu hu hu ku masih bisa tertawa awkoawkaoawk
 Non_HS	bismillah mugi khusnul khotimah
@@ -120,7 +110,6 @@ Non_HS	kenapa orang orang yang pantas mati malah berumur panjang
 Non_HS	apa perlu saya turun tangan
 Non_HS	ingat mati ingat sakit ingat saat kau ngetwit
 Non_HS	abang tukang bakso pakau walkie talkie kijang satu ganti
-Non_HS	mulut siapa itu
 Non_HS	permisi jagoan
 HS	Gantengnya Kaya anjing lagi jilat 
 HS	Bisa nya cuma jilat doang Kaya ANjing
@@ -133,10 +122,7 @@ HS	Ganteng Penyayang binatang lagi, sesama binatang emang harus saling menyayang
 Non_HS	hadeh
 HS	jokowi asu
 HS	Jokowi anjing
-Non_HS	gua jomblo karena gua yakin semesta lagi nyiapin seseorang yg paling indah buat gua
 Non_HS	gatau aku masi tk
-Non_HS	jika kalian bosan like batu ini
-Non_HS	lu masih mending lah gua
 Non_HS	sopan kh begitu
 Non_HS	bismilah rasengan
 HS	ayo ngewe
@@ -151,7 +137,6 @@ HS	indonesia jika indihome tidak kontol
 HS	dasar anak dajal
 HS	hallo anak haram 
 HS	ibumu PSK ya 
-Non_HS	apakah anda sudah bersyukur hari ini jika belum bersyukurlah karena masih diberikan nafas untuk hidup
 Non_HS	aku ngeluarin eek yang panjang dan besar
 Non_HS	huhu
 Non_HS	ayo ke psikolog
@@ -168,7 +153,6 @@ Non_HS	pengen tak lep
 Non_HS	kamulah makhluk tuhan paling seksi yang paling seksi seksi konsumsi
 Non_HS	lu bakal di respon kalo lu cakep
 Non_HS	tidak boleh seperti anjing
-Non_HS	kadang aku bingung kenapa kamu bisa hidup di bumi
 Non_HS	kok kamu subuh subuh udah mandi iya mah gerah loh kan kamarmu ber ac
 Non_HS	gk jelas ni orang
 Non_HS	lu mau gue pukul
@@ -223,9 +207,7 @@ Non_HS	iri bilang bos
 Non_HS	kamu pergi kesana dan jangan pernah kembali
 Non_HS	gaskeun
 Non_HS	begitu masuk langsung jadi pns
-Non_HS	kamu cita citanya mau jadi apa jadi t rex wah kamu mau jadi besar dan kuat ya aku mau punah
 Non_HS	coba kau pikirkan coba kau renungkan apa yang pikirkan renungkan apa pikirkan kau
-Non_HS	hahaha orang jawa pasti kuli hahaha kevin lupa kalau dia sedang tidak berada di internet
 Non_HS	saya tau kaliah sudah tidak konsen bekerja gak usah pura sibuk gitu
 HS	jangan lari lari tod bacod tua cucu panteq mampus
 HS	renne out miskin taktik buta strategi aki aki goblok
@@ -265,7 +247,6 @@ HS	tumben sepi biasanya banyak yang gila
 HS	ini maksudnya apa anjing
 HS	eits tidak boleh begitu wahai lonte
 Non_HS	ini gimana pak ustadz
-Non_HS	selamat datang di rumah makan bebek selamet kok menunya ayam semua kan bebeknya selamet
 Non_HS	gongsi gongsi ayo masuk gausah memei makasih eh kenapa soalnya mau kita bubarin
 Non_HS	cari simpati
 HS	aaaaa bangsat
