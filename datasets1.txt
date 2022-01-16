@@ -1,7 +1,9 @@
 Label	Kalimat
 Non_HS	nunggu ya
+HS	situ ORANG atau Badut Kok gendut
 Non_HS	lihat ada badut disana
 HS	asuuuuuuuuuuu
+HS	Udah Bodoh Hidup Lagi!!!!
 Non_HS	sayang sini sama aku
 Non_HS	agak meresahkan
 HS	henti tolol mu
@@ -24,6 +26,9 @@ Non_HS	ga boleh gitu lu
 Non_HS	mengapa hatiku cenat cenut tiap ada kamu
 Non_HS	dewasa dikit masa harus dikasih tau
 Non_HS	ga sanggup
+HS	Maap Tidak Terima Orang TOLOL
+HS	Meditasi Sebelum Menghujat
+HS	apasi Pasi pasi Anjing
 Non_HS	opini yang bagus warga indonesia sekarang bayar hutang
 Non_HS	jangan ditahan gue mau ngamuk
 Non_HS	aku galiat aku madep tembok
@@ -34,9 +39,13 @@ Non_HS	gue kalo lagi sendirian jarang ngobrol
 Non_HS	jangan bikin gaduh
 Non_HS	opini yang bagus nak sekarang pamit dulu sama keluarga
 HS	bangsat kau
+HS	Disuruh Patuhi 5M malah ngambil 14M kontol emang
 Non_HS	seketika aku terkedjoet
 HS	goblok puazzzz
 Non_HS	lah ngatur
+HS	si Goblok berani berani nya
+HS	eits tidak boleh begitu wahai lonte, anak gendut hitam
+HS	Nih mamam otak biar ada otaknya sedikit
 Non_HS	jakarta dilarang beriziq dilarang gaduh
 Non_HS	woy diem diem bae demo napa demo
 Non_HS	php bukan pemberi harapan palsu tapi orang madura jualan hp
@@ -65,6 +74,7 @@ Non_HS	pasti tata krama belum ditemukan disini
 Non_HS	yeah perkelahian sangat menghibur
 Non_HS	zaman sekarang melajang itu trendi
 HS	wuuu kontol
+HS	emang gapunya otak punya nya cuma KONTOL!!!
 Non_HS	tetap kalem walau sedang jomblo
 HS	tolong sudahi kebodohan ini
 Non_HS	aku tanya sekali lagi siapa itu hyung dan kenapa dia bengek
@@ -112,11 +122,17 @@ Non_HS	ingat mati ingat sakit ingat saat kau ngetwit
 Non_HS	abang tukang bakso pakau walkie talkie kijang satu ganti
 Non_HS	mulut siapa itu
 Non_HS	permisi jagoan
+HS	Gantengnya Kaya anjing lagi jilat 
+HS	Bisa nya cuma jilat doang Kaya ANjing
 Non_HS	dpr ngelucu presiden pamer cucu
 Non_HS	astagfirullah
 Non_HS	eh tahan istigfar astagfirullahaladzim
 HS	duh rahimku anget mas
+HS	Tokopedei
+HS	Ganteng Penyayang binatang lagi, sesama binatang emang harus saling menyayangi
 Non_HS	hadeh
+HS	jokowi asu
+HS	Jokowi anjing
 Non_HS	gua jomblo karena gua yakin semesta lagi nyiapin seseorang yg paling indah buat gua
 Non_HS	gatau aku masi tk
 Non_HS	jika kalian bosan like batu ini
@@ -125,10 +141,16 @@ Non_HS	sopan kh begitu
 Non_HS	bismilah rasengan
 HS	ayo ngewe
 HS	sangee
+HS	cipokan yu 
+HS	situ gila, Pantesan 
+Non_HS	hukumnya dibecandain.. komedinya di baperin
 Non_HS	pesona
 Non_HS	yaallah yaallah mulu tapi gapernah solat
 Non_HS	liat tuh lagi pepet pepetan
 HS	indonesia jika indihome tidak kontol
+HS	dasar anak dajal
+HS 	hallo anak haram 
+HS	ibumu PSK ya 
 Non_HS	apakah anda sudah bersyukur hari ini jika belum bersyukurlah karena masih diberikan nafas untuk hidup
 Non_HS	aku ngeluarin eek yang panjang dan besar
 Non_HS	huhu
@@ -136,9 +158,11 @@ Non_HS	ayo ke psikolog
 Non_HS	nackal nackal nackal
 Non_HS	punten a tolong banget inimah ya haduh
 Non_HS	dih anjrit
+HS	gua bunuh lo anjing
 HS	gue lempar lo bangsat
 Non_HS	di pojok tombol apa tombol save image
 Non_HS	apa aku terlihat peduli
+HS	dia mana berani muka kek memek 
 Non_HS	otak kau menguncup
 Non_HS	pengen tak lep
 Non_HS	kamulah makhluk tuhan paling seksi yang paling seksi seksi konsumsi
@@ -151,6 +175,12 @@ Non_HS	lu mau gue pukul
 HS	ingatlah anak anak tetaplah berada di jalan setan
 HS	gajelas ngentot
 Non_HS	kalem sodara sodara
+HS	Akan anjing pada waktunya
+HS	muka Lu kek tai Anjing
+HS 	borang ahli neraka Aris Aris Aris Aris
+HS	PANTESAN KAMU GOBLOK OTAK KAMU PINDAH KESINI
+HS	hmm sebentar lagi akan ku sleding kepalanya
+Non_HS	katanya Kangen tapi Daritadi "R" doang TUMAN!!
 Non_HS	aduh tangan ku gatel pengen nabok orang
 Non_HS	ini gan tadi jatoh di jalan
 HS	lihat hidupku penuh dengan dosa
@@ -165,10 +195,15 @@ Non_HS	mencari akhlakmuu
 Non_HS	kak kalo ga bisa dimilikin tolong gantengnya di kurangin
 Non_HS	sepertinya aku mencium aroma keributan
 Non_HS	lihat itu ada orang caper
+HS	Muntahkan Ketololan mu 
+HS	orang gila baru nih 
+HS	mengoleskan Serum ANti BACOT
+HS	kek ada yang ngomong ngentot
 Non_HS	lihat tidak ada yang perduli
 Non_HS	aku mau main kerumah boleh ga aku bawain martabak ni buat ibuk
 Non_HS	lebih baik menyesal membeli daripada menyesal tidak membeli
 Non_HS	ya allah sabar
+HS	Selamat datang orang bodoh ku 
 Non_HS	tenang saudara saudara
 Non_HS	terdiam melihat kebodohanmu
 Non_HS	ngetik apa sih netijen
@@ -176,6 +211,9 @@ Non_HS	aduh halunya kebangetan
 Non_HS	diam atau ku gampar
 Non_HS	ni bocah ngetik apa sih
 Non_HS	nyari ribut lu
+HS 	dut dut Si gendut anak paling nakal
+HS	hey kau anak firaun 
+HS	sifatmu seperti setan kelaparan
 Non_HS	menahan diri untuk tidak menghujatmu
 HS	kok lu lebih biadab dari gua si anjincc
 Non_HS	ya allah pengen ngatain
@@ -190,9 +228,11 @@ Non_HS	coba kau pikirkan coba kau renungkan apa yang pikirkan renungkan apa piki
 Non_HS	hahaha orang jawa pasti kuli hahaha kevin lupa kalau dia sedang tidak berada di internet
 Non_HS	saya tau kaliah sudah tidak konsen bekerja gak usah pura sibuk gitu
 HS	jangan lari lari tod bacod tua cucu panteq mampus
+HS	renne out miskin taktik buta strategi aki aki goblok
 Non_HS	dua babi sedang bertatap muka
 Non_HS	gaya kau aja besar otak kau kecil
 HS	centil banget si lonte
+HS	gerak geriknya ceperti anak haram
 HS	bukain anjing
 HS	hahaha bodoh sekali dia yang mulia
 HS	apa anjing
@@ -240,16 +280,21 @@ Non_HS	memikirkan rumitnya hidup ini
 Non_HS	ya tuhan aku ga sanggup
 HS	mo marah kontollllllll
 HS	anak ngentottt
+HS	tot Ngentoddddd
+HS	ANjim goblokkk
 Non_HS	menunggu duit jauh dari langit
 HS	memek
+HS	indonesia milik banteng merah 
 HS	gue gebuk kaget lu njing tukang bak
 HS	apasi pasi pasi papasi anjing
+HS	cok Jancok
+HS	hahaha miskin ga punya duit ya
 Non_HS	situ sehat
 Non_HS	punten gofud
 Non_HS	takbir jangan nih
 Non_HS	bukan golongan kami
 Non_HS	jika pil kb bisa menunda punya anak maka pilkada tidak bisa ditunda demi anak
-Non_HS	asik ada bahan
+HS	Ngotak dong
 Non_HS	kepala pundak luhut lagi luhut lagi
 Non_HS	astagfirulloh
 Non_HS	takbir
