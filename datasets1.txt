@@ -149,7 +149,7 @@ Non_HS	yaallah yaallah mulu tapi gapernah solat
 Non_HS	liat tuh lagi pepet pepetan
 HS	indonesia jika indihome tidak kontol
 HS	dasar anak dajal
-HS 	hallo anak haram 
+HS	hallo anak haram 
 HS	ibumu PSK ya 
 Non_HS	apakah anda sudah bersyukur hari ini jika belum bersyukurlah karena masih diberikan nafas untuk hidup
 Non_HS	aku ngeluarin eek yang panjang dan besar
@@ -177,7 +177,7 @@ HS	gajelas ngentot
 Non_HS	kalem sodara sodara
 HS	Akan anjing pada waktunya
 HS	muka Lu kek tai Anjing
-HS 	borang ahli neraka Aris Aris Aris Aris
+HS	borang ahli neraka Aris Aris Aris Aris
 HS	PANTESAN KAMU GOBLOK OTAK KAMU PINDAH KESINI
 HS	hmm sebentar lagi akan ku sleding kepalanya
 Non_HS	katanya Kangen tapi Daritadi "R" doang TUMAN!!
@@ -211,7 +211,7 @@ Non_HS	aduh halunya kebangetan
 Non_HS	diam atau ku gampar
 Non_HS	ni bocah ngetik apa sih
 Non_HS	nyari ribut lu
-HS 	dut dut Si gendut anak paling nakal
+HS	dut dut Si gendut anak paling nakal
 HS	hey kau anak firaun 
 HS	sifatmu seperti setan kelaparan
 Non_HS	menahan diri untuk tidak menghujatmu
